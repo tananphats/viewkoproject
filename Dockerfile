@@ -1,5 +1,5 @@
 FROM node:8.2.1-alpine
-MAINTAINER Thiti Yamsung (t.yamsung@gmail.com)
+MAINTAINER Tanawan Putsombutsiri (tanawan.phat@gmail.com)
 
 COPY . /app
 WORKDIR /app
